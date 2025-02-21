@@ -1,0 +1,14 @@
+# Virtual environment and system files
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Custom folders and files
+Unidad/
+*.txt
+Share/
+"Proyecto Unidae1"/
+
+# Binaries
+bin/
